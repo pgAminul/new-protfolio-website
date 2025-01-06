@@ -38,7 +38,7 @@ Follow these instructions to run the project locally.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/pgAminul/new-protfolio-website
    ```
 
 2. Navigate to the project directory:
@@ -75,9 +75,8 @@ npm run build
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: businessbyaminul@gmail.com
+- **GitHub**: https://github.com/pgAminul
 
 ---
 
