@@ -1,8 +1,84 @@
-# React + Vite
+# Aminul Islam - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio website! This project showcases my skills, experience, and previous projects. Built with React and styled using Tailwind CSS, this site is designed to be fast, responsive, and visually appealing.
+## Live Link : [ https://protfolio-aminul.netlify.app/ ]
+## Features
 
-Currently, two official plugins are available:
+- **Projects Showcase:** A curated collection of my past work.
+- **Smooth Animations:** Enhanced user experience using libraries like `AOS` and `Framer Motion`.
+- **Responsive Design:** Fully optimized for both desktop and mobile devices using Tailwind CSS.
+- **Interactive Forms:** Integrated email functionality powered by `EmailJS`.
+- **Routing:** Smooth navigation using `React Router DOM`.
+- **Toast Notifications:** User-friendly notifications using `React Toastify`.
+- **Parallax Effects:** Visual depth using `react-scroll-parallax`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+### Frontend:
+- **React**: Component-based library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **DaisyUI**: Tailwind CSS components library for pre-styled UI elements.
+
+### Libraries and Plugins:
+- **EmailJS**: For sending emails directly from the website.
+- **Formik & Yup**: For form validation and handling.
+- **Framer Motion**: For smooth animations.
+- **React Scroll & React Scroll Parallax**: For scrolling and parallax effects.
+- **React Icons**: For adding icons to the UI.
+- **React Toastify**: For interactive notifications.
+
+## Getting Started
+
+Follow these instructions to run the project locally.
+
+### Prerequisites
+- Node.js installed (LTS version recommended).
+- A code editor like VS Code.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio-website
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the Project
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+2. Open the browser and navigate to:
+   ```
+   http://localhost:5173
+   ```
+
+### Build for Production
+To build the project for production:
+```bash
+npm run build
+```
+
+## Folder Structure
+- **src/**: Contains all source files, including components, pages, and assets.
+- **public/**: Static files and assets.
+- **node_modules/**: Dependencies.
+
+## Contact
+If you have any questions or suggestions, feel free to reach out to me:
+- **Email**: your-email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+
+---
+
+Thank you for visiting my portfolio website!
