@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Gym House",
+      "description": "A responsive platform for managing gym services and schedules, including dynamic pages showcasing services, testimonials, and a contact form.",
+      "features": [
+        "Responsive design for all devices",
+        "Dynamic pages for services, testimonials, and contact",
+        "Interactive UI with animations"
+      ],
+      "technologies": {
+        "frontend": "HTML, CSS, JavaScript"
+      },
+      "live_site_url": "https://pgaminul.github.io/B10A1_Assignment_Two/",
+      "github_repository": "https://github.com/pgAminul/B10A1_Assignment_Two",
+      "img": {
+        "alt_text": "Gym House Platform Homepage",
+        "url": "https://i.ibb.co/Ws595cn/Gym-House.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Career Pro",
+      "description": "A career counseling platform that helps users explore career options and provides guidance through articles, videos, and interactive tools.",
+      "features": [
+        "Interactive career guidance tools",
+        "Dynamic content management",
+        "Responsive design for mobile and desktop"
+      ],
+      "technologies": {
+        "frontend": "React, CSS",
+        "backend": "Firebase"
+      },
+      "live_site_url": "https://career-counseling-ca7c6.web.app/",
+      "github_repository": "https://github.com/pgAminul/B10A1_Assignment_9",
+      "img": {
+        "alt_text": "Career Pro Platform",
+        "url": "https://i.ibb.co/FBPJvqR/career-Pro.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sport Equipment Store",
+      "description": "An e-commerce platform for sports equipment with advanced product filtering, user authentication, and a responsive layout.",
+      "features": [
+        "User authentication with Firebase",
+        "Product filtering by category and price",
+        "Responsive layout for all devices"
+      ],
+      "technologies": {
+        "frontend": "React, Tailwind CSS",
+        "backend": "Firebase"
+      },
+      "live_site_url": "https://sports-equipment-878c9.web.app/",
+      "github_repository": "https://github.com/pgAminul/B10A1_Assignment_10",
+      "img": {
+        "alt_text": "Sport Equipment Store",
+        "url": "https://i.ibb.co/1vdC61V/gearsprint.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "QueryNest",
+      "description": "A platform for managing and interacting with product queries, offering recommendations and fostering engagement.",
+      "features": [
+        "Add, update, and delete user queries",
+        "Recommendations system for products",
+        "Search functionality for filtering queries",
+        "JWT-secured authentication",
+        "Responsive design for all devices"
+      ],
+      "technologies": {
+        "frontend": "React, Tailwind CSS",
+        "backend": "Node.js, Express, MongoDB",
+        "authentication": "Firebase Authentication, JWT"
+      },
+      "live_site_url": "https://product-recommendation-s-965a9.web.app/",
+      "github_repository": "https://github.com/pgAminul/Assignment-11",
+      "img": {
+        "alt_text": "QueryNest Product Queries Platform",
+        "url": "https://i.ibb.co/YBG840p/Query-Nest.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Peddy - Pet Adoption Platform",
+      "description": "An interactive platform to browse, filter, and adopt pets, emphasizing user engagement and community connection.",
+      "features": [
+        "Responsive design",
+        "Dynamic pet listings fetched from API",
+        "Category filtering (e.g., dogs, cats)",
+        "Detailed pet information in modal",
+        "Interactive adoption countdown"
+      ],
+      "technologies": {
+        "frontend": "HTML, CSS, JavaScript (ES6+)",
+        "backend": "API Integration"
+      },
+      "live_site_url": "https://webpets.netlify.app/",
+      "github_repository": "https://github.com/pgAminul/B10A1_Assignment_6",
+      "img": {
+        "alt_text": "Peddy Pet Adoption Platform",
+        "url": "https://i.ibb.co/jJQ6M2v/Peddy.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Aminul Islam",
+  "title": "Front-End Web Developer",
+  "image": "https://i.ibb.co/hLBgH26/my-picture.png",
+  "shortDescription": "I specialize in creating modern, responsive, and user-friendly web applications using cutting-edge technologies.",
+  "fullDescription": "I specialize in creating modern, responsive, and user-friendly web applications using cutting-edge technologies. My expertise includes HTML, CSS, JavaScript, React, and Tailwind CSS. I love solving complex UI challenges and ensuring websites perform seamlessly across all devices. I am passionate about learning new tools to enhance my skills and build scalable, maintainable projects.",
+  "hobbies": [
+    "Playing cricket and enjoying outdoor games",
+    "Watching Tech Video and exploring new cuisines",
+    "Reading technology blogs and staying updated with the latest trends"
+  ],
+  "formalDetails": [
+    "Complete Web Development on the Programming Hero Online Platform.",
+    "1.5+ years of experience in front-end development"
+  ],
+  "informalDetails": [
+    "A problem solver who enjoys debugging complex issues",
+    "A team player who loves collaborating with others",
+    "An enthusiastic learner with a growth mindset"
+  ]
+}
